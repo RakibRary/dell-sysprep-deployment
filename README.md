@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # Windows Golden Image — Dell Sysprep / DISM Deployment
 
 Build a sysprepped Windows 11 "golden image" on a reference Dell, capture it to
