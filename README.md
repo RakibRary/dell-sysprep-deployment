@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="2400" height="1410" alt="image" src="https://github.com/user-attachments/assets/b1659d64-db46-4949-82af-bfe6429d7abc" />
 
 
 # Windows Golden Image — Dell Sysprep / DISM Deployment
